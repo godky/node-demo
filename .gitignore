@@ -1,0 +1,8 @@
+node_modules/
+public/upload/
+server/creeper/config.js
+.svn/
+public/txwork/
+.idea
+npm-debug.log
+README.md
